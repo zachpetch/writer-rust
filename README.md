@@ -5,6 +5,7 @@ A minimal plain-text editor for macOS, built with pure Rust and no external crat
 ## Build and Run
 
 Requires a Mac with Rust installed.
+Built on macOS 26.4 with Rust 1.94.0, if it matters (I hope it doesn't, much).
 
 ```bash
 cargo build          # compile
