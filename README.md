@@ -1,4 +1,4 @@
-# Writer
+# Writer (Rust)
 
 A minimal plain-text editor for macOS, built with pure Rust and no external crates. All GUI functionality is achieved through direct FFI bindings to the Objective-C runtime and macOS Cocoa frameworks (AppKit, Foundation).
 
